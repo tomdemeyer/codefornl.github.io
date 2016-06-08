@@ -1156,9 +1156,6 @@ Light Version: #F28F71;  */
 	cursor: pointer;
 }
 
-.category-testimonials li:nth-child(2) .name-cite {
-	margin-top: 107px;
-}
 
 /*  Bright Oranges
 Normal Version: #F7921B;
@@ -1171,9 +1168,6 @@ Light Version: #F7BA74;  */
 	cursor: pointer;
 }
 
-.category-testimonials li:nth-child(3) .name-cite {
-	margin-top: 76px;
-}
 
 /*  COLORS
 *   DARK GRAY #A09F9F
